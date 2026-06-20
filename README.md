@@ -61,7 +61,7 @@ Through this project, I gained hands-on experience with:
 
 ## 🌐 Live Demo
 
-Add your deployment link here after deploying on GitHub Pages or Netlify.
+https://embedded-x.github.io/HorizonTechX_Calculator/
 
 ## 👨‍💻 Author
 
